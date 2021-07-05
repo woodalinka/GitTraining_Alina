@@ -1,0 +1,8 @@
+This is Stash Lecture, Change in Main File 1 >> SamplesFile_main1.txt
+
+
+
+quite
+quit
+
+echo This is Stash Lecture, Change in Main File 1
