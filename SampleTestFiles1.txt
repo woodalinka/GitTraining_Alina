@@ -1,2 +1,1 @@
 this is Sample File 1
-This sample reset commit
